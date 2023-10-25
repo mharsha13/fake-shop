@@ -12,7 +12,7 @@ function Contact() {
         <h3>Mvp Colony, Vizag IN</h3>
       </div>
       <Links>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+        <a href="https://github.com/mharsha13/" target="_blank">
           <GitHubIcon color="primary" style={Icon} />
         </a>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">

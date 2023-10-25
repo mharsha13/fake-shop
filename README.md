@@ -2,7 +2,7 @@
 
 A simple fake store React app.
 
-Live preview : [fakestore](https://mvl-fakestore.netlify.app/)
+Live preview : [harshashop](https://harshashop.netlify.app/)
 
 
 ## Built with

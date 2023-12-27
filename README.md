@@ -5,7 +5,7 @@ A simple fake store React app.
 Live preview : [harshashop](https://harshashop.netlify.app/)
 
 
-## Built with
+## Built wit
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
